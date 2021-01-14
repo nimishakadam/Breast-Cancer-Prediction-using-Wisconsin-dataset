@@ -1,1 +1,2 @@
 # Breast-Cancer-Prediction-using-Wisconsin-dataset
+The Breast Cancer Wisconsin (Diagnostic) Data Set consists of 30 different features based on which the tumor is diagnosed as "Benign" or "Malignant".Data Visualization using these different features is done using 'seaborn' library and 'matplotlib' library. Machine learning algorithms were applied in order to determine which algorihtm works best for this classification problem predicting whether a tumor is "Benign" or "Malignant". 
